@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/etherx/static/css/main.29710f22.css",
-    "main.js": "/etherx/static/js/main.ff5b7571.js",
+    "main.js": "/etherx/static/js/main.d5f3d896.js",
     "static/media/blockchain.png": "/etherx/static/media/blockchain.c31e6fd691029fac24b7.png",
     "static/media/bgvideo.mp4": "/etherx/static/media/bgvideo.0f27ce856eab0a90b898.mp4",
     "static/media/Firevest.png": "/etherx/static/media/Firevest.9347608623c3adb77cf0.png",
@@ -36,10 +36,10 @@
     "static/media/footer.svg": "/etherx/static/media/footer.70b54bbe52a797ce69c1.svg",
     "index.html": "/etherx/index.html",
     "main.29710f22.css.map": "/etherx/static/css/main.29710f22.css.map",
-    "main.ff5b7571.js.map": "/etherx/static/js/main.ff5b7571.js.map"
+    "main.d5f3d896.js.map": "/etherx/static/js/main.d5f3d896.js.map"
   },
   "entrypoints": [
     "static/css/main.29710f22.css",
-    "static/js/main.ff5b7571.js"
+    "static/js/main.d5f3d896.js"
   ]
 }
